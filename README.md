@@ -5,17 +5,17 @@
 Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o ensino médio no Colégio Pangui Afonso, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Mundo da Técnologia. Sou apaixonada por tecnologia e compartilho meu conhecimento através das minhas redes socias
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.facebook.com/profile.php?id=61560369077442">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.facebook.com/profile.php?id=61560369077442">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            alt="Facebook views" 
+            title="Vizualizações no Facebook" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
