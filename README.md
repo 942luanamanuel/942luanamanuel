@@ -28,7 +28,7 @@ Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o e
     </a>
     <a href="https://942luanamanuel.github.io/portf-lio-Profissional/">
         <img 
-            alt="Seguidores" 
+            alt="Fortifilio" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
