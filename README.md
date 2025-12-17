@@ -105,6 +105,14 @@ Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o e
 />
 <img 
     align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -155,14 +163,14 @@ Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://942luanamanuel.github.io/portf-lio-Profissional/" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="(https://942luanamanuel.github.io/portf-lio-Profissional/" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
