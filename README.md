@@ -7,30 +7,30 @@ Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o e
 <p align="left">
     <a href="https://www.facebook.com/profile.php?id=61560369077442">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="facebook" 
+            title="pesquisa me no meu facebook" 
+            src="https://www.facebook.com/profile.php?id=61560369077442"
         />
     </a>
     <a href="https://www.facebook.com/profile.php?id=61560369077442">
         <img 
             alt="Facebook views" 
             title="Vizualizações no Facebook" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://www.facebook.com/profile.php?id=61560369077442"
         />
     </a> 
     <a href="https://942luanamanuel.github.io/portf-lio-Profissional/">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://942luanamanuel.github.io/portf-lio-Profissional/"
         />
     </a>
     <a href="https://942luanamanuel.github.io/portf-lio-Profissional/">
         <img 
             alt="Fortifilio" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://942luanamanuel.github.io/portf-lio-Profissional/"
         />
     </a>
 </p>
@@ -102,16 +102,7 @@ Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o e
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
+
     align="left" 
     alt="PHP" 
     title="PHP"
@@ -163,14 +154,14 @@ Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://942luanamanuel.github.io/portf-lio-Profissional/" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="(https://942luanamanuel.github.io/portf-lio-Profissional/" 
   />
 
 </p>
