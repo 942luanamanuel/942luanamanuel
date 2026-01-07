@@ -26,11 +26,11 @@ Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o e
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/942luanamanuel/942luanamanuel/tree/main">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://github.com/942luanamanuel/942luanamanuel/tree/main"
         />
     </a>
 </p>
@@ -163,7 +163,7 @@ Me chamo Luana Leal Manuel , tenho 22 anos e sou natural de Luanda. Concluí o e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github.com/942luanamanuel/942luanamanuel/tree/main" 
   />
 
 <img 
